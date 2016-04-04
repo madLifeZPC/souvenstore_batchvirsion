@@ -1,0 +1,6 @@
+CENTENARY,Centenary Celebration in 2016,2016-01-01,365,15,A
+PRESIDENT_BDAY,University president's birthday,2016-04-04,7,20,A
+ORIENTATION_DAY,Orientation Day,2016-03-10,10,20,A
+MEMBER_FIRST,First purchase by member,ALWAYS,ALWAYS,20,M
+MEMBER_SUBSEQ,Subsequent purchase by member,ALWAYS,ALWAYS,10,M
+Spring festival,Discount for Chinese new year,2016-02-01,10,5,A
